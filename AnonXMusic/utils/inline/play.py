@@ -61,7 +61,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="𝖴𝗉𝖽𝖺𝗍𝖾𝗌 📢", url=f"https://t.me/harry_bots"
+                text="❰𝙊𝙒𝙉𝙀𝙍❱", url="https://t.me/tum_jaha_ham_wahi
             ),
             InlineKeyboardButton(
                 text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍 💬", url=f"https://t.me/TG_NAME_STYLE"
@@ -76,7 +76,7 @@ def stream_markup(_, chat_id):
     buttons = [
         [
             InlineKeyboardButton(
-                text="𝖴𝗉𝖽𝖺𝗍𝖾𝗌 📢", url=f"https://t.me/harry_bots"
+                text="❰𝙊𝙒𝙉𝙀𝙍❱", url="https://t.me/tum_jaha_ham_wahi
             ),
             InlineKeyboardButton(
                 text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍 💬", url=f"https://t.me/TG_NAME_STYLE"
