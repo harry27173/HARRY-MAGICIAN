@@ -67,6 +67,11 @@ def stream_markup_timer(_, chat_id, played, dur):
                 text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍 💬", url=f"https://t.me/TG_NAME_STYLE"
           ),
         ],
+        [
+            InlineKeyboardButton(
+                text="𝗠𝗨𝗦𝗜𝗖 𝗕𝗢𝗧 🎶", url="https://t.me/magician_music_bot"
+            ),
+        ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
     ]
     return buttons
@@ -81,6 +86,11 @@ def stream_markup(_, chat_id):
             InlineKeyboardButton(
                 text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍 💬", url=f"https://t.me/TG_NAME_STYLE"
           ),
+        ],
+        [
+            InlineKeyboardButton(
+                text="𝗠𝗨𝗦𝗜𝗖 𝗕𝗢𝗧 🎶", url="https://t.me/magician_music_bot"
+            ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
     ]
