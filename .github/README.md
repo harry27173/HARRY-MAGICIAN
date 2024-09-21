@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 」──
+    ──「 𝐌𝐚𝐠𝐢𝐜𝐢𝐚𝐧 𝐱 𝐦𝐮𝐬𝐢𝐜 」──
 </h2>
 
 <p align="center">
